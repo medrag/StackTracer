@@ -1,0 +1,26 @@
+[08/11/2018 22:32:48:3248] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:33:11:3311] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:33:31:3331] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:34:25:3425] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:35:00:350] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:35:16:3516] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:35:29:3529] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:35:39:3539] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:36:38:3638] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:37:14:3714] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:37:33:3733] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:38:15:3815] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:38:20:3820] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:39:00:390] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:39:27:3927] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:39:51:3951] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:40:40:4040] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:41:30:4130] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:42:09:429] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:42:22:4222] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:46:13:4613] (ConfigTestCase) {Info log} Test Log File Creation
+[08/11/2018 22:46:38:4638] (ConfigTestCase) {Info log} Test Log File Creation
+[12/11/2018 16:04:10:410] (Client) {Debug log} Sum result : 10
+[12/11/2018 16:04:10:410] (Client) {Info log} Début du traitement 
+[12/11/2018 16:04:10:410] (Client) {Warn log} Fin du traitement
+[12/11/2018 16:04:10:410] (Client) {Error log} java.lang.ArithmeticException: / by zero
